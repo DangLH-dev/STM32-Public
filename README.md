@@ -11,3 +11,6 @@ Những dự án liên quan tới STM32 mà có thể chia sẻ cho cộng đồ
     After init, you can watch w25qxx struct.(Chip ID,page size,sector size and ...)
     In Read/Write Function, you can put 0 to NumByteToRead/NumByteToWrite parameter to maximum.
     Dont forget to erase page/sector/block before write.
+    
+    video https://youtu.be/CBLcoZ8ef-E
+    code  https://www.youtube.com/watch?v=CBLcoZ8ef-E
