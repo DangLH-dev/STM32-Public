@@ -1,8 +1,9 @@
 # STM32-Public
 Những dự án liên quan tới STM32 mà có thể chia sẻ cho cộng đồng
 
-W25QXX SPI FLASH Library for STM32
+1.W25QXX
 
+    W25QXX SPI FLASH Library for STM32
     Enable SPI and a Gpio as output(CS pin).Connect WP and HOLD to VCC.
     Select General peripheral Initalizion as a pair of '.c/.h' file per peripheral on project settings.
     Config w25qxxConf.h.
