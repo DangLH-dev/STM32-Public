@@ -13,4 +13,4 @@ Những dự án liên quan tới STM32 mà có thể chia sẻ cho cộng đồ
     Dont forget to erase page/sector/block before write.
     
     video https://youtu.be/CBLcoZ8ef-E
-    code  https://www.youtube.com/watch?v=CBLcoZ8ef-E
+    code  https://github.com/DangLH-dev/STM32-Public/tree/main/w25qxx
